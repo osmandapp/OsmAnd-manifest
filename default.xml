@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote
+        name="origin"
+        fetch="ssh://git@github.com" />
+	<default
+        revision="master"
+        remote="origin"
+		sync-c="true"
+        sync-j="4" />
+
+    <!-- OsmAnd -->
+	<project path="core" name="osmandapp/OsmAnd-core.git" />
+    <project path="platforms/wp8" name="osmandapp/OsmAnd-wp8.git" />
+	
+</manifest>
