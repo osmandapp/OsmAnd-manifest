@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote
+        name="origin"
+        fetch="git://github.com" />
+	<default
+        revision="master"
+        remote="origin"
+		sync-c="true"
+        sync-j="4" />
+
+    <!-- OsmAnd -->
+	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
+	
+</manifest>

@@ -2,7 +2,7 @@
 <manifest>
 	<remote
         name="origin"
-        fetch="ssh://git@github.com" />
+        fetch="git://github.com" />
 	<default
         revision="master"
         remote="origin"
@@ -11,9 +11,6 @@
 
     <!-- OsmAnd -->
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
-	<project path="platforms/wp8" name="osmandapp/OsmAnd-wp8.git" />
-	<project path="platforms/android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
-	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 	
 </manifest>

@@ -2,7 +2,7 @@
 <manifest>
 	<remote
         name="origin"
-        fetch="ssh://git@github.com" />
+        fetch="git://github.com" />
 	<default
         revision="master"
         remote="origin"
