@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote
-        name="origin"
-        fetch="git://github.com" />
+		name="origin"
+		fetch="git://github.com" />
 	<default
-        revision="master"
-        remote="origin"
+		revision="master"
+		remote="origin"
 		sync-c="true"
-        sync-j="4" />
+		sync-j="4" />
 
-    <!-- OsmAnd -->
+	<!-- OsmAnd -->
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="platforms/wp8" name="osmandapp/OsmAnd-wp8.git" />
 	<project path="platforms/android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
-	
+
 </manifest>
