@@ -11,7 +11,7 @@
 
 	<!-- OsmAnd -->
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
-	<project path="platforms/android" name="osmandapp/Osmand.git" />
+	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 
 </manifest>
