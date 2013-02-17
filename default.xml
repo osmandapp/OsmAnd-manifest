@@ -14,9 +14,6 @@
 	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" />
 	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
-	<project path="avian/core" name="osmandapp/avian.git" />
-	<project path="avian/wp8" name="osmandapp/avian-wp8.git" />
-	<project path="avian/winrt" name="osmandapp/avian-winrt.git" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 
 </manifest>
