@@ -10,6 +10,7 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
+	<project path="build" name="osmandapp/OsmAnd-build.git" />
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" />
 	<project path="android" name="osmandapp/Osmand.git" />
