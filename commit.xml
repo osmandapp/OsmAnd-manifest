@@ -13,6 +13,7 @@
 	<project path="build" name="osmandapp/OsmAnd-build.git" />
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" />
+	<project path="jni" name="osmandapp/OsmAnd-jni.git" />
 	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />

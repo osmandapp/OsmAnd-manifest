@@ -12,6 +12,7 @@
 	<!-- OsmAnd -->
 	<project path="build" name="osmandapp/OsmAnd-build.git" />
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
+	<project path="jni" name="osmandapp/OsmAnd-jni.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 
 </manifest>
