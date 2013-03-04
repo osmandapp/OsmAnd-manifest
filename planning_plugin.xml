@@ -13,7 +13,7 @@
 	<!-- OsmAnd -->
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" />
-	<project path="android" name="michc/plan_measure.git" />
+	<project path="android" name="michc/Osmand.git" branch="plan_measure"/>
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="avian/core" name="osmandapp/avian.git" />
 	<project path="avian/wp8" name="osmandapp/avian-wp8.git" />
