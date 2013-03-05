@@ -11,14 +11,13 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
+	<project path="build" name="osmandapp/OsmAnd-build.git" />
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="jni" name="osmandapp/OsmAnd-jni.git" />
 	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" />
 	<project path="android" name="michc/Osmand.git" revision="plan_measure"/>
+	
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
-	<project path="avian/core" name="osmandapp/avian.git" />
-	<project path="avian/wp8" name="osmandapp/avian-wp8.git" />
-	<project path="avian/winrt" name="osmandapp/avian-winrt.git" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 
 </manifest>
