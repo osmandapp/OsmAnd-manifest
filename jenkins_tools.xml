@@ -12,7 +12,7 @@
 	<!-- OsmAnd -->
 	<project path="build" name="osmandapp/OsmAnd-build.git" />
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
-	<project path="android" name="osmandapp/OsmAnd.git" />
+	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 
 </manifest>
