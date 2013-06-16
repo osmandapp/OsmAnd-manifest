@@ -15,5 +15,5 @@
 	<project path="android" name="fokin33/Osmand" revision="master"/>
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" revision="master" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" revision="master" />
-
+	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
 </manifest>

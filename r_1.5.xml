@@ -12,5 +12,6 @@
 	<!-- OsmAnd -->
 	<project path="core" name="osmandapp/OsmAnd-core.git" revision="r1.1.4" />
 	<project path="android" name="osmandapp/Osmand.git" revision="master"/>
-	 <project path="jni" name="osmandapp/OsmAnd-jni.git" revision="master"/>
+	<project path="jni" name="osmandapp/OsmAnd-jni.git" revision="master"/>
+	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
 </manifest>
