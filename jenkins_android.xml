@@ -15,5 +15,5 @@
 	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="jni" name="osmandapp/OsmAnd-jni.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
-	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
+	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
 </manifest>
