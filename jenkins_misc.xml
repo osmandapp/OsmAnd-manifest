@@ -11,5 +11,5 @@
 
 	<!-- OsmAnd -->
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
-	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
+	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
 </manifest>
