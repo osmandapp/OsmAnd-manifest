@@ -10,7 +10,7 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
-	<project path="android" name="osmandapp/Osmand.git" revision="r.17"/>
+	<project path="android" name="osmandapp/Osmand.git" revision="r1.7"/>
 	<project path="core" name="osmandapp/OsmAnd-core.git" revision="legacy_core" />
 	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" revision="master" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" revision="master" />
