@@ -10,7 +10,7 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
-	<project path="android" name="osmandapp/Osmand.git" revision="3c9b4155347cb3991d" />
-	<project path="tools" name="osmandapp/OsmAnd-tools.git" revision="bb4594bf5a73d"/>
-	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="fa2a83e19053"/>
+	<project path="android" name="osmandapp/Osmand.git" revision="3c9b4155347cb3991d5eb7a0ff4b354d031c95cd" />
+	<project path="tools" name="osmandapp/OsmAnd-tools.git" revision="fa2a83e190539692670bc8de29e2a0100f9ba2b6"/>
+	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="bb4594bf5a73dcb5d051322b985991a905c68de4"/>
 </manifest>
