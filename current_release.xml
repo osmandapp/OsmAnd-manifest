@@ -11,7 +11,7 @@
 
 	<!-- OsmAnd -->
 	<project path="android" name="osmandapp/Osmand.git" revision="r1.8"/>
-	<project path="core" name="osmandapp/OsmAnd-core.git" revision="legacy_core" />
+	<project path="core" name="osmandapp/OsmAnd-core.git" revision="legacy_1.8" />
 	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" revision="master" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" revision="master" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" revision="master" />
