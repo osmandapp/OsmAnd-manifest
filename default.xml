@@ -10,7 +10,9 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
-	<project path="build" name="osmandapp/OsmAnd-build.git" />
+	<project path="build" name="osmandapp/OsmAnd-build.git">
+		<copyfile src="IDE_CMakeLists.txt" dest="CMakeLists.txt" />
+	</project>
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="ios" name="osmandapp/OsmAnd-ios.git" />
 	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" />
