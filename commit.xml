@@ -11,7 +11,7 @@
 
 	<!-- OsmAnd -->
 	<project path="build" name="osmandapp/OsmAnd-build.git">
-		<copyfile src="IDE_CMakeLists.txt" dest="CMakeLists.txt" />
+		<copyfile src="ide.cmake" dest="CMakeLists.txt" />
 	</project>
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="ios" name="osmandapp/OsmAnd-ios.git" />
