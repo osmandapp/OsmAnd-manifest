@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote
+		name="origin"
+		fetch="git://github.com/" />
+	<default
+		revision="master"
+		remote="origin"
+		sync-c="true"
+		sync-j="4" />
+
+	<!-- OsmAnd -->
+	<project path="core" name="osmandapp/OsmAnd-core.git" revision="legacy_core" />
+	<project path="android" name="osmandapp/Osmand.git" revision="gradle"/>
+	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
+	<project path="help" name="osmandapp/osmandapp.github.io.git" revision="master"/>
+</manifest>
