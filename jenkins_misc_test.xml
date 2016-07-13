@@ -13,5 +13,5 @@
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
 	<!-- fork -->
-	<project path="help" name="osmandapp/osmandapp.github.io.git" />
+	<project path="help" name="osmandapp/osmandapp.github.io.git" revision="test" />
 </manifest>
