@@ -12,7 +12,7 @@
 	<!-- OsmAnd -->
 	<project path="build" name="osmandapp/OsmAnd-build.git" />
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
-	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" branch="legacy_core"/>
+	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_core"/>
 
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 	<project path="android" name="osmandapp/Osmand.git" />
