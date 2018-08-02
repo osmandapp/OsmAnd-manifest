@@ -14,5 +14,6 @@
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_core" />
 	<project path="ios" name="osmandapp/OsmAnd-ios.git" />
+	<project path="android" name="osmandapp/Osmand.git" revision="master"/>
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
 </manifest>
