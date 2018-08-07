@@ -11,8 +11,8 @@
 
 	<!-- OsmAnd -->
 	<project path="android" name="osmandapp/Osmand.git" revision="r3.1"/>
-	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_r3.1" />
-	<project path="tools" name="osmandapp/OsmAnd-tools.git" revision="r3.1" />
+	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_3.1" />
+	<project path="tools" name="osmandapp/OsmAnd-tools.git" revision="master" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" revision="master" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="r3.1" />
 	<project path="help" name="osmandapp/osmandapp.github.io.git" revision="r3.1" />
