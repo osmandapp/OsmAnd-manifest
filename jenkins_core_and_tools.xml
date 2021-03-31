@@ -12,7 +12,7 @@
 	<!-- OsmAnd Core and Tools -->
 	<project path="build" name="osmandapp/OsmAnd-build.git" />
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
-	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_core" />
+	<project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
 </manifest>

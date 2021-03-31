@@ -14,7 +14,7 @@
 		<copyfile src="ide.cmake" dest="CMakeLists.txt" />
 	</project>
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
-	<project path="core-legacy" name="osmandapp/OsmAnd-core.git" revision="legacy_core" />
+	<project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" />
 	<project path="ios" name="osmandapp/OsmAnd-ios.git" />
 	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
