@@ -7,7 +7,7 @@
 		revision="master"
 		remote="origin"
 		sync-c="true"
-		sync-j="4" />
+		sync-j="2" />
 
 	<!-- OsmAnd -->
 	<project path="ios" name="osmandapp/OsmAnd-ios.git" />
