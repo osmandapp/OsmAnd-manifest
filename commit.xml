@@ -12,6 +12,7 @@
 	<!-- OsmAnd -->
 	<project path="build" name="osmandapp/OsmAnd-build.git">
 		<copyfile src="ide.cmake" dest="CMakeLists.txt" />
+		<copyfile src=".editorconfig" dest=".editorconfig" />
 	</project>
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" />
