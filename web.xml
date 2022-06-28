@@ -10,6 +10,6 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
-	<project path="android" name="osmandapp/web.git" revision="main"/>
+	<project path="web" name="osmandapp/web.git" revision="main"/>
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
 </manifest>
