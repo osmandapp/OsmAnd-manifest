@@ -4,7 +4,7 @@
 		name="origin"
 		fetch="https://github.com" />
 	<default
-		revision="master"
+		revision="r4.4"
 		remote="origin"
 		sync-c="true"
 		sync-j="4" />
