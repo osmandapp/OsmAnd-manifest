@@ -11,7 +11,7 @@
 
 	<!-- OsmAnd Core SDK -->
 	<project path="build" name="osmandapp/OsmAnd-build.git" />
-	<project path="core" revision="Fix_SWIG_SKIA_memory_leak" name="osmandapp/OsmAnd-core.git" />
+	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
 </manifest>
