@@ -4,7 +4,7 @@
   <default revision="r4.5" remote="origin" sync-c="true" sync-j="4" />
 
   <!-- OsmAnd -->
-  <project path="android" name="osmandapp/Osmand.git" />
+  <project path="android" revision="Fix_SWIG_crash_POI_symbols" name="osmandapp/Osmand.git" />
   <project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" />
   <project path="resources" name="osmandapp/OsmAnd-resources.git" />
   <project path="help" name="osmandapp/osmandapp.github.io.git" />
