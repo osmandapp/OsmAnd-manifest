@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote
+		name="origin"
+		fetch="https://github.com/" />
+	<default
+		revision="master"
+		remote="origin"
+		sync-c="true"
+		sync-j="4" />
+
+	<!-- OsmAndServer standalone (JAR) -->
+	<project path="misc" name="osmandapp/OsmAnd-misc.git" revision="master" /> <!-- bash scripts (master) -->
+	<project path="web-server-config" name="osmandapp/web-server-config.git" revision="rzr-templates" /> <!-- email templates (main) -->
+</manifest>
