@@ -18,5 +18,5 @@
 	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
-	<project path="web-server-config" revision="rzr-templates" name="osmandapp/web-server-config.git" />
+	<project path="web-server-config" name="osmandapp/web-server-config.git" revision="rzr-templates" />
 </manifest>
