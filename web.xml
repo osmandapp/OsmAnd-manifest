@@ -12,5 +12,6 @@
 	<!-- OsmAnd -->
 	<project path="web" name="osmandapp/web.git" revision="main"/>
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
-	<project path="android" name="osmandapp/Osmand.git" revision="master" />
+	<project path="android" name="osmandapp/Osmand.git" revision="master" /> <!-- For translation / resources -->
+	<project path="ios" name="osmandapp/OsmAnd-iOS.git" revision="master" /> <!-- For translation / resources -->
 </manifest>
