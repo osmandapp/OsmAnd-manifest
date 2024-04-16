@@ -13,6 +13,5 @@
 	<project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" />
 	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
-	<project path="help" name="osmandapp/osmandapp.github.io.git" />
 	<project path="MPAndroidChart" name="osmandapp/MPAndroidChart.git" revision="customize_chart"/>
 </manifest>
