@@ -13,9 +13,5 @@ sync-j="4" />
 <project path="android" name="osmandapp/Osmand.git" revision="master"/>
 <project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" revision="master" />
 <project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
-<project path="help" name="osmandapp/osmandapp.github.io.git" revision="master" />
-<!-- 
-<project path="tools" name="osmandapp/OsmAnd-tools.git" revision="master" />
-<project path="misc" name="osmandapp/OsmAnd-misc.git" revision="master" />
--->
+
 </manifest>
