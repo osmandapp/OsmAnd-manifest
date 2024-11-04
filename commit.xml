@@ -10,10 +10,7 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
-	<project path="build" name="osmandapp/OsmAnd-build.git">
-		<copyfile src="ide.cmake" dest="CMakeLists.txt" />
-		<copyfile src=".editorconfig" dest=".editorconfig" />
-	</project>
+	<project path="build" name="osmandapp/OsmAnd-build.git" />
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" />
 	<project path="ios" name="osmandapp/OsmAnd-ios.git" />
@@ -21,5 +18,5 @@
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
-	<project path="help" name="osmandapp/osmandapp.github.io.git" />
+	<project path="web" name="osmandapp/web.git" />
 </manifest>
