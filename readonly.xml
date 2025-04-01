@@ -21,5 +21,4 @@
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
-	<project path="help" name="osmandapp/osmandapp.github.io.git" />
 </manifest>
