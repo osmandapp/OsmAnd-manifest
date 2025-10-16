@@ -10,6 +10,7 @@
                 sync-j="4" />
 
         <!-- OsmAnd -->
+        <project path="build" name="osmandapp/Osmand-build.git" />
         <project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" revision="master"  />
         <project path="android" name="osmandapp/Osmand.git" />
         <project path="tools" name="osmandapp/OsmAnd-tools.git" />
