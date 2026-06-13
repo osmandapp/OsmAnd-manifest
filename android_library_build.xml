@@ -14,4 +14,5 @@
 	<project path="android" name="osmandapp/Osmand.git" revision="master"/>
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" revision="master" />
 	<project path="MPAndroidChart" name="osmandapp/MPAndroidChart.git" revision="customize_chart"/>
+	<project path="KMP-nmea" name="osmandapp/KMP-nmea.git" revision="master"/>
 </manifest>
