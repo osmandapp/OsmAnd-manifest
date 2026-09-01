@@ -18,5 +18,5 @@
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
-	<project path="web" name="osmandapp/web.git" />
+	<project path="web" name="osmandapp/web.git" revision="main" /> <!-- web.git renamed master -> main -->
 </manifest>
