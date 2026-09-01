@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<!-- See also all.xml: same remote and projects, plus `help` and the build copyfile. -->
+	<!-- Read-write (ssh) counterpart of readonly.xml, covering every repository
+	     listed in the setup docs. Superset of commit.xml: adds `help` and the
+	     build copyfile. -->
 	<remote
 		name="origin"
 		fetch="ssh://git@github.com" />
@@ -11,7 +13,9 @@
 		sync-j="4" />
 
 	<!-- OsmAnd -->
-	<project path="build" name="osmandapp/OsmAnd-build.git" />
+	<project path="build" name="osmandapp/OsmAnd-build.git">
+		<copyfile src="ide.cmake" dest="CMakeLists.txt" />
+	</project>
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" />
 	<project path="ios" name="osmandapp/OsmAnd-ios.git" />
@@ -20,4 +24,5 @@
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
 	<project path="web" name="osmandapp/web.git" revision="main" /> <!-- web.git renamed master -> main -->
+	<project path="help" name="osmandapp/osmandapp.github.io.git" />
 </manifest>
