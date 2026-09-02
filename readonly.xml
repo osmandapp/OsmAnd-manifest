@@ -16,9 +16,10 @@
 	<project path="core" name="osmandapp/OsmAnd-core.git" />
 	<project path="core-legacy" name="osmandapp/OsmAnd-core-legacy.git" revision="master" />
 	<project path="ios" name="osmandapp/OsmAnd-ios.git" />
-	<project path="wp8" name="osmandapp/OsmAnd-wp8.git" />
 	<project path="android" name="osmandapp/Osmand.git" />
 	<project path="tools" name="osmandapp/OsmAnd-tools.git" />
 	<project path="misc" name="osmandapp/OsmAnd-misc.git" />
 	<project path="resources" name="osmandapp/OsmAnd-resources.git" />
+	<project path="web" name="osmandapp/web.git" revision="main" /> <!-- web.git renamed master -> main -->
+	<project path="help" name="osmandapp/osmandapp.github.io.git" />
 </manifest>
